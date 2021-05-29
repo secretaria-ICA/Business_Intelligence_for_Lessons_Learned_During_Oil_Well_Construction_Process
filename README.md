@@ -27,3 +27,11 @@ Este projeto descreve a coleta, análise e definição as principais necessidade
 A proposta será cobrir todas as informações a respeito da junção das dimensões com o fato e consequentemente abstrair informações que possam servir como base para uma estratégia de negócio futuro, visando melhorar o desempenho da empresa e sendo possível obter relatórios como: o tipo da lição aprendida, gerencia mais ativa, aplicação da lição, operações que foram identificadas. Tudo isso levando em conta, sempre que possível, a sazonalidade.
 
 Ao final do projeto a empresa, além da construção do Data Warehouse, espera que sejam desenvolvidos dashboards com os dados mais relevantes sobre as lições aprendidas, de forma que os gestores possam ter informações rápidas a qualquer momento.
+
+---
+
+Matrícula: 192.671.116
+
+Pontifícia Universidade Católica do Rio de Janeiro
+
+Curso de Pós Graduação Business Intelligence Master 2019-2
