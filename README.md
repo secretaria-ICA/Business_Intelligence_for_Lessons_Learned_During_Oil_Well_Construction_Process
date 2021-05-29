@@ -1,9 +1,5 @@
 # Business Intelligence for Lessons Learned During Oil Well Construction Process
 
-#### Aluno: [Pedro Esteves Aranha](https://github.com/peaaranha)
-#### Orientador(/a/es/as): [Anderson Nascimento](https://github.com/insightds)
-# Business Intelligence for Lessons Learned During Oil Well Construction Process
-
 #### Aluno: [Pedro Esteves Aranha](https://github.com/peaaranha).
 #### Orientador: [Anderson Nascimento](https://github.com/insightds).
 
